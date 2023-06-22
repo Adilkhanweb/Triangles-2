@@ -1,0 +1,10 @@
+@echo off
+del 0?.a
+del 1?
+del 1?.a
+del 2?
+del 2?.a
+del 3?
+del 3?.a
+del triangles_rs.exe
+del gentests.exe
